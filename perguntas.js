@@ -5,43 +5,43 @@ criaCartao (
     
     criaCartao (
     'Química', 
-    ‘Qual a regra do octeto?’,
-    ‘Para um átomo ficar estável ele precisa de 8 elétrons em sua C.V. com exceção do Hidrogênio e do Hélio’)
+    'Qual a regra do octeto?',
+    'Para um átomo ficar estável ele precisa de 8 elétrons em sua C.V. com exceção do Hidrogênio e do Hélio')
     
     criaCartao (
-    ‘Química’, 
-    ‘Qual a nomenclatura de um Ácido de acordo com a IUPAC?’,
-    ‘Depende se ele for um Hidrácido:Ácido elemento + ídrico ou um Oxiácido:Ácido elemento ico/oso dependendo do nox dos átomos’)
+    'Química', 
+    'Qual a nomenclatura de um Ácido de acordo com a IUPAC?',
+    'Depende se ele for um Hidrácido:Ácido elemento + ídrico ou um Oxiácido:Ácido elemento ico/oso dependendo do nox dos átomos')
     
     criaCartao (
-    ‘Química’, 
-    ‘Qual a nomenclatura de uma Base de acordo com a IUPAC?’,
-    ‘Depende se o cátion for fixo ou variável Fixo:Hidróxido de elemento Variável:Hidróxido de elemento + alg. romano ou Hidróxidos de elemento em latim ico para carga maior oso para carga menor’)
+    'Química',
+    'Qual a nomenclatura de uma Base de acordo com a IUPAC?',
+    'Depende se o cátion for fixo ou variável Fixo:Hidróxido de elemento Variável:Hidróxido de elemento + alg. romano ou Hidróxidos de elemento em latim ico para carga maior oso para carga menor')
     
     criaCartao (
-    ‘Química’, 
-    ‘Qual a nomenclatura de um Óxido ametal de acordo com a IUPAC?’,
-    ‘mono/di/tri/tetra óxido de di/tri/tetra nome do metal’)
+    'Química', 
+    'Qual a nomenclatura de um Óxido ametal de acordo com a IUPAC?',
+    'mono/di/tri/tetra óxido de di/tri/tetra nome do metal')
     
     criaCartao (
-    ‘Física’, 
-    ‘Qual a fórmula conhecida como sorvete?’,
-    ‘S=S0 + V.t’)
+    'Física', 
+    'Qual a fórmula conhecida como sorvete?',
+    'S=S0 + V.t')
     
     criaCartao (
-    ‘Física’, 
-    ‘Qual a fórmula usada para calcular a tensão?’,
-    ‘U=R.i’)
+    'Física', 
+    'Qual a fórmula usada para calcular a tensão?',
+    'U=R.i')
     
     criaCartao (
-    ‘Biologia’, 
-    ‘O que diferencia uma Gimnosperma de uma Angiosperma?’,
-    ‘A Angiosperma possui flores e frutos, se demonstrando mais desenvolvida que uma Gimnosperma’)
+    'Biologia', 
+    'O que diferencia uma Gimnosperma de uma Angiosperma?',
+    'A Angiosperma possui flores e frutos, se demonstrando mais desenvolvida que uma Gimnosperma')
     
     criaCartao (
-    ‘História’, 
-    ‘O que foi a Batalha de Stalingrado?’,
-    ‘Foi um esforço gigantesco realizado pelos soviéticos após meses de combates, os nazistas foram derrotados ao custo de dois milhões de mortos, resultaram em uma vitória soviética fundamental para o destino da guerra’)
+    'História', 
+    'O que foi a Batalha de Stalingrado?',
+    'Foi um esforço gigantesco realizado pelos soviéticos após meses de combates, os nazistas foram derrotados ao custo de dois milhões de mortos, resultaram em uma vitória soviética fundamental para o destino da guerra')
     
     criaCartao (
     'História', 
