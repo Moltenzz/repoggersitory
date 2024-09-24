@@ -1,4 +1,4 @@
-criaCartao (
+    criaCartao (
     'Química', 
     'Até quantas camadas possui um átomo, e quantos elétrons existem em cada camada?',
     'K-2 L-8 M-18 N-32 O-32 P-18 Q-8')
